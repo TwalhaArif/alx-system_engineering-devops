@@ -1,3 +1,2 @@
 #!/bin/bash
-dirname "$(realpath $0)"
-\n
+dirname "$(realpath $0)"\n
